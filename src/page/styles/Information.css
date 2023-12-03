@@ -1,0 +1,34 @@
+
+.header-info {
+  background-color: rgb(252, 133, 90); 
+  padding: 16px;
+  color: #fbf4e9
+}
+
+.information section {
+  margin: 20px 0;
+}
+
+.information ol {
+  padding-left: 400px;
+}
+
+.information ol li {
+  padding-right: 400px;
+}
+
+.information h2 {
+  color: orangered; 
+}
+
+.information section p {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #fff3e6;
+  font-size: 16px;
+  color: #333;
+}
+
+.information img {
+  width: 40%;
+}
+
